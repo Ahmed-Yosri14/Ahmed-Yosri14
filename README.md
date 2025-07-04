@@ -2,16 +2,18 @@
 
 <p align="center">
   Full-Stack Developer | Software Tester | Competitive Programmer<br>
-  🧑‍🎓 CS Student at Cairo University | 💻 Back-end Enthusiast | 🧪 Test-Driven Dev Advocate
+  🧑‍🎓 CS Student at Cairo University | 💻 Back-End Enthusiast | 🧪 Test-Driven Dev Advocate
 </p>
 
 ---
 
 ### 💡 About Me
 - 🎓 Computer Science student at **Cairo University** — GPA: 3.71 | Top 50
-- 🛠️ Focused on **backend development** with Java and Spring Boot
-- 🔒 Built secure REST APIs with **Spring Security**, **JWT**, and role-based access
-- 🤝 Mentored 50+ students in competitive programming as part of the **ICPC community**
+- 🛠️ Specialized in **backend development** using Java and Spring Boot
+- 🔒 Built secure RESTful APIs with **Spring Security**, **JWT**, and role-based access
+- 📊 Integrated Excel reporting, email automation, and performance analytics
+- 🧪 Advocate for **testable code** and **clean architecture** using JUnit and Mockito
+- 🤝 Mentored 50+ students in data structures and algorithms through the **ICPC community**
 
 ---
 
@@ -30,25 +32,25 @@ Spring Boot, REST APIs, Spring Security, JWT, MVC
 JUnit 5, Mockito, Postman, Selenium
 
 **Tools:**  
-Git, Maven, GitHub Actions, Docker
+Git, Maven, Docker, GitHub Actions
 
 **Databases:**  
 MySQL, PostgreSQL
 
 **Other:**  
-Clean Architecture, OOP, Design Patterns, OS-level concurrency, Multithreading
+Clean Architecture, OOP, Design Patterns, OS Concurrency, Multithreading
 
 ---
 
 ### 🚀 Featured Projects
 
 - 📚 **[Learning Management System](https://github.com/AhmedYosry14/Learning-Management-System)**  
-  > Built a role-based LMS using **Java + Spring Boot** with full REST API, JWT-secured endpoints, Excel reporting, and email automation.  
-  > Emphasized testability using **JUnit** and **clean architecture (controller-service-repo)**.
+  > Full-featured Spring Boot LMS with **JWT-secured endpoints**, **role-based access**, Excel reporting, and email alerts.  
+  > Tested with **JUnit** and follows **clean 3-tier architecture**.
 
 - 💻 **[Command Line Interpreter](https://github.com/AhmedYosry14/Command-Line-Interpreter)**  
-  > A modular, extensible command-line shell built in Java.  
-  > Supports dynamic command registration and OOP-based plugin design.
+  > Java CLI tool with **modular command registration** and extensible OOP design.  
+  > Designed for maintainability and future plugin-based extensions.
 
 ---
 
@@ -65,6 +67,8 @@ Clean Architecture, OOP, Design Patterns, OS-level concurrency, Multithreading
 ### 📬 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ahmed--yosry)
-- 📨 Email: ahmedyosry1014@gmail.com  
+- 📨 Email: ahmedyosry1014@gmail.com
 
 ---
+
+> “Tests are not optional. If you don’t write them, someone else will — your users.”
