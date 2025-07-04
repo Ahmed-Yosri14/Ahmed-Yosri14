@@ -57,10 +57,11 @@ Clean Architecture, OOP, Design Patterns, OS Concurrency, Multithreading
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedYosry14&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Yosri14&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYosry14&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Yosri14&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
